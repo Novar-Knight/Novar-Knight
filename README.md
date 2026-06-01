@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Full-Stack Developer | React | Flask | Python</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Novar-Knight&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ## 🚀 About Me
@@ -66,9 +66,9 @@ A platform connecting farmers directly with buyers.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Novar-Knights&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Novar-Knight&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Novar-Knights&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Novar-Knight&layout=compact&theme=tokyonight)
 
 ---
 
