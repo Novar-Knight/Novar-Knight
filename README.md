@@ -1,20 +1,4 @@
-## Hi there 👋
-
-<!--
-**Novar-Knight/Novar-Knight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Novar Knights</h1>
+<h1 align="center">Hi 👋, I'm NovarKnight</h1>
 <h3 align="center">Full-Stack Developer | React | Flask | Python</h3>
 
 <p align="center">
@@ -73,9 +57,9 @@ A platform connecting farmers directly with buyers.
 ---
 
 ## 🤝 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/YOUR_LINKEDIN
-- Email: your.email@example.com
+- GitHub: https://github.com/Novar-Knight
+- LinkedIn: 
+- Email: sylvesterkonana005@gmail.com
 
 ---
 
