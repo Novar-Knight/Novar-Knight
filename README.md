@@ -44,3 +44,21 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sylvester-konana&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvester-konana&layout=compact&theme=tokyonight)
+
+---
+## 🤝 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/sylvester-konana
+- Email: sylvesterkonana005@gmail.com
+
+---
+
+⭐ If you like my projects, consider giving them a star!
+
