@@ -15,3 +15,30 @@
 - ⚡ Fun fact: I enjoy solving real-world problems through technology
 
 ---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend
+- Python
+- Flask
+- REST APIs
+
+### Database
+- PostgreSQL
+- SQLite
+
+### Tools & Platforms
+- Git
+- GitHub
+- Postman
+- Vercel
+- Render
+
+---
